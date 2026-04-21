@@ -1,0 +1,11 @@
+C:\Users\kubaj\source\repos\Maze_Simulation\Maze_Simulation\bin\Debug\Maze_Simulation.exe.config
+C:\Users\kubaj\source\repos\Maze_Simulation\Maze_Simulation\bin\Debug\Maze_Simulation.exe
+C:\Users\kubaj\source\repos\Maze_Simulation\Maze_Simulation\bin\Debug\Maze_Simulation.pdb
+C:\Users\kubaj\source\repos\Maze_Simulation\Maze_Simulation\obj\Debug\Maze_Simulation.csproj.AssemblyReference.cache
+C:\Users\kubaj\source\repos\Maze_Simulation\Maze_Simulation\obj\Debug\Maze_Simulation.Form1.resources
+C:\Users\kubaj\source\repos\Maze_Simulation\Maze_Simulation\obj\Debug\Maze_Simulation.Properties.Resources.resources
+C:\Users\kubaj\source\repos\Maze_Simulation\Maze_Simulation\obj\Debug\Maze_Simulation.csproj.GenerateResource.cache
+C:\Users\kubaj\source\repos\Maze_Simulation\Maze_Simulation\obj\Debug\Maze_Simulation.csproj.CoreCompileInputs.cache
+C:\Users\kubaj\source\repos\Maze_Simulation\Maze_Simulation\obj\Debug\Maze_Simulation.exe
+C:\Users\kubaj\source\repos\Maze_Simulation\Maze_Simulation\obj\Debug\Maze_Simulation.pdb
+C:\Users\kubaj\source\repos\Maze_Simulation\Maze_Simulation\obj\Debug\Maze_Simulation.exe.config
